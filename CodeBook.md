@@ -8,13 +8,13 @@ this repository.  The file run_analysis.R needs to be sourced into your R
 environment and then executed by typing "run_analysis()".
 
 ## Variables.
-All arabiles are measured in g, execpt for subkuct and activity.
+All arabiles are measured in g, execpt for subject and activity.
 
 subject    
 activity
-tBodyAcc-mean()-X          
+tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
-tBodyAcc-mean()-Z           
+tBodyAcc-mean()-Z
 tGravityAcc-mean()-X       
 tGravityAcc-mean()-Y        
 tGravityAcc-mean()-Z        
@@ -41,10 +41,10 @@ fBodyAccJerk-mean()-Z
 fBodyGyro-mean()-X          
 fBodyGyro-mean()-Y         
 fBodyGyro-mean()-Z          
-fBodyAccMag-mean()          
-fBodyBodyAccJerkMag-mean() 
-fBodyBodyGyroMag-mean()     
-fBodyBodyGyroJerkMag-mean() 
+fBodyAccMag-mean()
+fBodyBodyAccJerkMag-mean()
+fBodyBodyGyroMag-mean()
+fBodyBodyGyroJerkMag-mean()
 tBodyAcc-std()-X           
 tBodyAcc-std()-Y            
 tBodyAcc-std()-Z            
